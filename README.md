@@ -1,2 +1,2 @@
 # Blogpost
-This is a collaborative group project 
+Game Notes helps players find video game reviews, guides, and strategy posts.
