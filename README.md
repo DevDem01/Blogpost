@@ -1,2 +1,3 @@
 # Blogpost
-This is a collaborative group project
+
+This project includes a collaborative team to creat a web application
