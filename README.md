@@ -1,2 +1,2 @@
 # Blogpost
-This is a collaborative group project
+This is a collaborative group project 
