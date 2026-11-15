@@ -1,3 +1,3 @@
 # Blogpost
+This project includes a collaborative team to creat a web application 
 
-This project includes a collaborative team to creat a web application
