@@ -169,12 +169,12 @@ a {
     font-size: 15px;
 }
 
-.game-card>a {
+.game-card-content>a {
     color: #67E8F9;
 }
 
-.game-card>a:hover {
-    color: #67e8f9b5
+.game-card-content>a:hover {
+    color: #67e8f97a
 }
 
 footer {
