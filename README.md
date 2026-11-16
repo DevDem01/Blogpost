@@ -1,3 +1,2 @@
 # Blogpost
-This project includes a collaborative team to creat a web application 
-
+This project is to create a blog web page for end user's
