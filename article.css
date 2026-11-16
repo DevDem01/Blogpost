@@ -1,0 +1,108 @@
+
+/* Game Notes - Article Page */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #0f172a;
+  color: #f8fafc;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Header and Navigation */
+
+header {
+  background-color: #1e293b;
+  padding: 20px 8%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+header h1 {
+  font-size: 22px;
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+a {
+  color: #38bdf8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav a {
+  color: #f8fafc;
+}
+
+/* Article Content */
+
+main {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+article h2 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+article h3 {
+  margin-top: 30px;
+  color: #e2e8f0;
+}
+
+article p {
+  color: #cbd5e1;
+}
+
+article img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 25px 0;
+  border-radius: 8px;
+}
+
+/* Footer */
+
+footer {
+  background-color: #1e293b;
+  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+/* Mobile Responsive Design */
+
+@media (max-width: 600px) {
+  header {
+    padding: 20px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  article h2 {
+    font-size: 28px;
+  }
+
+  main {
+    margin: 20px auto;
+  }
+}
