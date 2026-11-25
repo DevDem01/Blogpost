@@ -131,3 +131,12 @@ footer {
 .related-posts a:hover {
   text-decoration: underline;
 }
+article a {
+  color: #38bdf8;
+  text-decoration: none;
+}
+
+article a:hover {
+  color: #0ea5e9;
+  text-decoration: none;
+}
